@@ -1,0 +1,7 @@
+C:\Users\Franyelvis\Documents\NetCoreAPi\ProductCRUDAPI-master\ProductCRUDAPI-master\obj\Debug\net6.0\VentaCRUDAPI.csproj.AssemblyReference.cache
+C:\Users\Franyelvis\Documents\NetCoreAPi\ProductCRUDAPI-master\ProductCRUDAPI-master\obj\Debug\net6.0\VentaCRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franyelvis\Documents\NetCoreAPi\ProductCRUDAPI-master\ProductCRUDAPI-master\obj\Debug\net6.0\VentaCRUDAPI.AssemblyInfoInputs.cache
+C:\Users\Franyelvis\Documents\NetCoreAPi\ProductCRUDAPI-master\ProductCRUDAPI-master\obj\Debug\net6.0\VentaCRUDAPI.AssemblyInfo.cs
+C:\Users\Franyelvis\Documents\NetCoreAPi\ProductCRUDAPI-master\ProductCRUDAPI-master\obj\Debug\net6.0\VentaCRUDAPI.csproj.CoreCompileInputs.cache
+C:\Users\Franyelvis\Documents\NetCoreAPi\ProductCRUDAPI-master\ProductCRUDAPI-master\obj\Debug\net6.0\VentaCRUDAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franyelvis\Documents\NetCoreAPi\ProductCRUDAPI-master\ProductCRUDAPI-master\obj\Debug\net6.0\VentaCRUDAPI.MvcApplicationPartsAssemblyInfo.cache
